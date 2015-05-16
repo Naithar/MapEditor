@@ -1,6 +1,6 @@
 ﻿
 
-namespace ITC.Extensions 
+namespace NHC.Extensions 
 {
 	using UnityEngine;
 	using System.Collections.Generic;

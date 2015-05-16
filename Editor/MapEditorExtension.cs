@@ -1,7 +1,7 @@
-﻿namespace ITC.Extensions.Editor
+﻿namespace NH.Extensions.Editor
 {
 	using System;
-	using ITC.Extensions;
+	using NH.Extensions;
 	using UnityEditor;
 	using UnityEngine;
 	using PE = PlacementEnum;
